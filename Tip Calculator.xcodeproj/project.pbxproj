@@ -14,6 +14,7 @@
 		86632223214C8B080008B955 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 86632221214C8B080008B955 /* LaunchScreen.storyboard */; };
 		8663222E214C8B080008B955 /* Tip_CalculatorTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8663222D214C8B080008B955 /* Tip_CalculatorTests.swift */; };
 		86632239214C8B090008B955 /* Tip_CalculatorUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 86632238214C8B090008B955 /* Tip_CalculatorUITests.swift */; };
+		86632247214C8C960008B955 /* Tip-Em-Icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 86632246214C8C960008B955 /* Tip-Em-Icon.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		86632234214C8B090008B955 /* Tip CalculatorUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Tip CalculatorUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		86632238214C8B090008B955 /* Tip_CalculatorUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tip_CalculatorUITests.swift; sourceTree = "<group>"; };
 		8663223A214C8B090008B955 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		86632246214C8C960008B955 /* Tip-Em-Icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Tip-Em-Icon.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,6 +100,7 @@
 			isa = PBXGroup;
 			children = (
 				86632218214C8B070008B955 /* AppDelegate.swift */,
+				86632246214C8C960008B955 /* Tip-Em-Icon.png */,
 				8663221A214C8B070008B955 /* ViewController.swift */,
 				8663221C214C8B070008B955 /* Main.storyboard */,
 				8663221F214C8B080008B955 /* Assets.xcassets */,
@@ -229,6 +232,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				86632247214C8C960008B955 /* Tip-Em-Icon.png in Resources */,
 				86632223214C8B080008B955 /* LaunchScreen.storyboard in Resources */,
 				86632220214C8B080008B955 /* Assets.xcassets in Resources */,
 				8663221E214C8B070008B955 /* Main.storyboard in Resources */,
