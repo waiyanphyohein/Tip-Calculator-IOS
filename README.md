@@ -8,3 +8,10 @@ Plan For Future for this Repo: Currently there is none for this application. How
 
 License: MIT
 *****************************************************************************************************************************
+## Video Walkthrough
+
+Here's a walkthrough of implemented user stories:
+
+<img src='PreLabWalkThrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+GIF created with [LiceCap](http://www.cockos.com/licecap/).
